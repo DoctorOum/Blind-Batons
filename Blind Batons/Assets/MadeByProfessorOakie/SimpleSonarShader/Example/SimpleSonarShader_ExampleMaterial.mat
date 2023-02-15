@@ -74,7 +74,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RingColorIntensity: 15
+    - _RingColorIntensity: 25
     - _RingIntensityScale: 3
     - _RingRange: 5
     - _RingSpeed: 1
